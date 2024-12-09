@@ -2,7 +2,7 @@
 - 👀 Aspiring front-end developer eager to create clean, responsive, and user-friendly web interfaces.
 - 🌱 Currently building my skills in HTML, CSS, JavaScript, and modern front-end frameworks.
 - 💞️ Looking to collaborate on entry-level web development projects to gain hands-on experience and contribute to innovative ideas.
-- 📫 You can reach me at [Insert your professional email or LinkedIn profile].
+- 📫 You can reach me at [E-mail:pydiroopa@gmail.com].
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I’m always excited to learn new tools and techniques to enhance user experiences!
 
